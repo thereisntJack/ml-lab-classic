@@ -14,3 +14,6 @@ dist/
 build/
 .DS_Store
 Thumbs.db
+
+# 本地保存的模型文件（joblib 等）
+artifacts/
